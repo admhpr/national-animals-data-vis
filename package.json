@@ -1,0 +1,36 @@
+{
+  "name": "national_animals_data_vis",
+  "version": "1.0.0",
+  "description": "An interactive map based on the national animals of countries. The data is scraped with python from a wikipedia table and served from a node server. This is the frontend.",
+  "main": "index.js",
+  "repository": "https://github.com/harps116/national-animals",
+  "author": "Adam Harpur",
+  "license": "MIT",
+  "private": false,
+  "scripts": {
+    "dev": "webpack-dev-server -d --hot --config webpack.config.js --watch",
+    "watch": "webpack --watch",
+    "start": "NODE_ENV=production webpack"
+  },
+  "devDependencies": {
+    "babel-core": "^6.26.0",
+    "babel-loader": "^7.1.2",
+    "babel-preset-es2017": "^6.24.1",
+    "css-loader": "^0.28.0",
+    "extract-text-webpack-plugin": "^3.0.2",
+    "node-sass": "^4.5.2",
+    "optimize-css-assets-webpack-plugin": "^3.2.0",
+    "sass-loader": "^6.0.3",
+    "style-loader": "^0.16.1",
+    "uglifyjs-webpack-plugin": "^1.1.2",
+    "webpack": "^3.10.0",
+    "webpack-dev-server": "^2.9.5",
+    "jsdoc-webpack-plugin": "^0.0.2"
+  },
+  "dependencies": {
+    "d3": "^4.12.0",
+    "d3-geo": "^1.9.0",
+    "d3-geo-projection": "^2.3.1",
+    "topojson-client": "^3.0.0"
+  }
+}

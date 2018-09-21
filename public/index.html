@@ -1,0 +1,38 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta http-equiv="X-UA-Compatible" content="ie=edge">
+    <title>DataVis</title>
+    <link rel="stylesheet" href="styles.css">
+</head>
+<header>
+</header>
+
+<body>
+    <div id="controls">
+        <input id="speed" type="range" list="tickmarks" value="20">
+
+        <datalist id="tickmarks">
+            <option value="0">
+                <option value="10">
+                    <option value="20">
+                        <option value="30">
+                            <option value="40">
+                                <option value="50">
+                                    <option value="60">
+                                        <option value="70">
+                                            <option value="80">
+                                                <option value="90">
+                                                    <option value="100">
+        </datalist>
+        <input rel="stop" type="button" value="Start">
+    </div>
+    <canvas id="stars"></canvas>
+    <aside id="info"></aside>
+    <script src="build.js"></script>
+</body>
+
+</html>
