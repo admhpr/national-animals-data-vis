@@ -19,11 +19,11 @@ However that was not the purpose of the project.
 
 ### Data visualisation
 
-![spinning-globe](img/data_vis.gif)
+![spinning-globe](static/data_vis.gif)
 
 - [Raw Data](https://raw.githubusercontent.com/harps116/national-animals/master/web_scraper/national_animals_map.topojson)
 
-- [Interactive Globe]()
+- [Interactive Globe](https://projects.codinglab.tech/national-animals-data-vis/)
 
 ### Acknowledgements
 
