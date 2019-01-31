@@ -1,0 +1,1275 @@
+[
+  {
+    "_values": {
+      "animal": [
+        "Fennec fox"
+      ],
+      "sci_name": [
+        "Vulpes zerda"
+      ],
+      "pic": [
+        "//upload.wikimedia.org/wikipedia/commons/thumb/1/1a/Fennec_Foxes.jpg/150px-Fennec_Foxes.jpg"
+      ],
+      "country": "Algeria"
+    }
+  },
+  {
+    "_values": {
+      "animal": [
+        "Red-crested turaco"
+      ],
+      "sci_name": [
+        "Tauraco erythrolophus"
+      ],
+      "pic": [
+        "//upload.wikimedia.org/wikipedia/commons/thumb/a/a7/RedcrestedTuraco.jpg/150px-RedcrestedTuraco.jpg"
+      ],
+      "country": "Angola"
+    }
+  },
+  {
+    "_values": {
+      "animal": [
+        "Zenaida dove"
+      ],
+      "sci_name": [
+        "Zenaida aurita"
+      ],
+      "pic": [
+        "//upload.wikimedia.org/wikipedia/commons/thumb/c/c0/Zenida_aurita1_1_barbados.jpg/150px-Zenida_aurita1_1_barbados.jpg"
+      ],
+      "country": "Anguilla"
+    }
+  },
+  {
+    "_values": {
+      "animal": [
+        "Fallow deer",
+        "Magnificent frigatebird",
+        "Hawksbill sea turtle"
+      ],
+      "sci_name": [
+        "Dama dama",
+        "Fregata magnificens",
+        "Eretmochelys imbricata"
+      ],
+      "pic": [
+        "//upload.wikimedia.org/wikipedia/commons/thumb/f/f3/Fallow_deer_in_field.jpg/150px-Fallow_deer_in_field.jpg",
+        "//upload.wikimedia.org/wikipedia/commons/thumb/a/ad/Fregata_magnificens1.jpg/150px-Fregata_magnificens1.jpg",
+        "//upload.wikimedia.org/wikipedia/commons/thumb/b/ba/Hawksbill_Turtle.jpg/150px-Hawksbill_Turtle.jpg"
+      ],
+      "country": "Antigua and Barbuda"
+    }
+  },
+  {
+    "_values": {
+      "animal": [
+        "Rufous hornero"
+      ],
+      "sci_name": [
+        "Furnarius rufus"
+      ],
+      "pic": [
+        "//upload.wikimedia.org/wikipedia/commons/thumb/6/6b/Flickr_-_Dario_Sanches_-_JO%C3%83O-DE-BARRO_%28Furnarius_rufus%29_%283%29.jpg/150px-Flickr_-_Dario_Sanches_-_JO%C3%83O-DE-BARRO_%28Furnarius_rufus%29_%283%29.jpg"
+      ],
+      "country": "Argentina"
+    }
+  },
+  {
+    "_values": {
+      "animal": [
+        "Red kangaroo",
+        "Emu"
+      ],
+      "sci_name": [
+        "Macropus rufus",
+        "Dromaius novaehollandiae"
+      ],
+      "pic": [
+        "//upload.wikimedia.org/wikipedia/commons/thumb/f/f1/Red_kangaroo_-_melbourne_zoo.jpg/150px-Red_kangaroo_-_melbourne_zoo.jpg",
+        "//upload.wikimedia.org/wikipedia/commons/thumb/c/c4/Emoe.jpg/150px-Emoe.jpg"
+      ],
+      "country": "Australia"
+    }
+  },
+  {
+    "_values": {
+      "animal": [
+        "Karabakh horse"
+      ],
+      "sci_name": [
+        "Equus ferus caballus"
+      ],
+      "pic": [
+        "//upload.wikimedia.org/wikipedia/commons/thumb/8/82/Karabakh_stallion_Khan.jpg/150px-Karabakh_stallion_Khan.jpg"
+      ],
+      "country": "Azerbaijan"
+    }
+  },
+  {
+    "_values": {
+      "animal": [
+        "Bengal tiger",
+        "Oriental magpie-robin",
+        "Ilish"
+      ],
+      "sci_name": [
+        "Panthera tigris tigris",
+        "Copsychus saularis",
+        "Tenualosa ilisha"
+      ],
+      "pic": [
+        "//upload.wikimedia.org/wikipedia/commons/thumb/2/2e/Tigerramki.jpg/150px-Tigerramki.jpg",
+        "//upload.wikimedia.org/wikipedia/commons/thumb/0/0b/Copsychus_saularis_-_Ang_Khang_female.jpg/150px-Copsychus_saularis_-_Ang_Khang_female.jpg",
+        "//upload.wikimedia.org/wikipedia/commons/thumb/8/8d/Ilish.JPG/150px-Ilish.JPG"
+      ],
+      "country": "Bangladesh"
+    }
+  },
+  {
+    "_values": {
+      "animal": [
+        "European bison"
+      ],
+      "sci_name": [
+        "Bison bonasus"
+      ],
+      "pic": [
+        "//upload.wikimedia.org/wikipedia/commons/thumb/9/98/Wisent.jpg/150px-Wisent.jpg"
+      ],
+      "country": "Belarus"
+    }
+  },
+  {
+    "_values": {
+      "animal": [
+        "Baird's tapir",
+        "Keel-billed toucan"
+      ],
+      "sci_name": [
+        "Tapirus bairdii",
+        "Ramphastos sulfuratus"
+      ],
+      "pic": [
+        "//upload.wikimedia.org/wikipedia/commons/thumb/7/7b/Central_American_Tapir-Belize20.jpg/150px-Central_American_Tapir-Belize20.jpg",
+        "//upload.wikimedia.org/wikipedia/commons/thumb/4/43/Ramphastos_sulfuratus_-Belize_Zoo-6a-2c.jpg/150px-Ramphastos_sulfuratus_-Belize_Zoo-6a-2c.jpg"
+      ],
+      "country": "Belize"
+    }
+  },
+  {
+    "_values": {
+      "animal": [
+        "Lion"
+      ],
+      "sci_name": [
+        "Panthera leo"
+      ],
+      "pic": [
+        "//upload.wikimedia.org/wikipedia/commons/thumb/c/c9/Insigne_Belgicum.svg/150px-Insigne_Belgicum.svg.png"
+      ],
+      "country": "Belgium"
+    }
+  },
+  {
+    "_values": {
+      "animal": [
+        "Druk",
+        "Takin"
+      ],
+      "sci_name": [
+        "Mythical",
+        "Budorcas taxicolor"
+      ],
+      "pic": [
+        "//upload.wikimedia.org/wikipedia/commons/thumb/9/91/Flag_of_Bhutan.svg/150px-Flag_of_Bhutan.svg.png",
+        "//upload.wikimedia.org/wikipedia/commons/thumb/7/76/Takin_indick%C3%BD.jpg/150px-Takin_indick%C3%BD.jpg"
+      ],
+      "country": "Bhutan"
+    }
+  },
+  {
+    "_values": {
+      "animal": [
+        "Jaguar",
+        "Rufous-bellied thrush"
+      ],
+      "sci_name": [
+        "Panthera onca",
+        "Turdus rufiventris"
+      ],
+      "pic": [
+        "//upload.wikimedia.org/wikipedia/commons/thumb/4/44/Onca.jpg/150px-Onca.jpg",
+        "//upload.wikimedia.org/wikipedia/commons/thumb/b/b9/Rufous-bellied_thrush_%28Turdus_rufiventris%29.JPG/150px-Rufous-bellied_thrush_%28Turdus_rufiventris%29.JPG"
+      ],
+      "country": "Brazil"
+    }
+  },
+  {
+    "_values": {
+      "animal": [
+        "Kouprey"
+      ],
+      "sci_name": [
+        "Bos sauveli"
+      ],
+      "pic": [
+        "none"
+      ],
+      "country": "Cambodia"
+    }
+  },
+  {
+    "_values": {
+      "animal": [
+        "North American beaver",
+        "Canadian horse"
+      ],
+      "sci_name": [
+        "Castor canadensis",
+        "Equus ferus caballus"
+      ],
+      "pic": [
+        "//upload.wikimedia.org/wikipedia/commons/thumb/6/6b/American_Beaver.jpg/150px-American_Beaver.jpg",
+        "//upload.wikimedia.org/wikipedia/commons/thumb/0/06/Img_3372_Me_trot.jpg/150px-Img_3372_Me_trot.jpg"
+      ],
+      "country": "Canada"
+    }
+  },
+  {
+    "_values": {
+      "animal": [
+        "Giant panda",
+        "Chinese dragon",
+        "Red-crowned crane"
+      ],
+      "sci_name": [
+        "Ailuropoda melanoleuca",
+        "Mythical",
+        "Grus japonensis"
+      ],
+      "pic": [
+        "//upload.wikimedia.org/wikipedia/commons/thumb/3/3c/Giant_Panda_2004-03-2.jpg/150px-Giant_Panda_2004-03-2.jpg",
+        "//upload.wikimedia.org/wikipedia/commons/thumb/2/2e/Green_Chinese_dragon.PNG/150px-Green_Chinese_dragon.PNG",
+        "//upload.wikimedia.org/wikipedia/commons/thumb/7/7e/Red-crowned_Crane_1.jpg/150px-Red-crowned_Crane_1.jpg"
+      ],
+      "country": "China"
+    }
+  },
+  {
+    "_values": {
+      "animal": [
+        "Okapi"
+      ],
+      "sci_name": [
+        "Okapia johnstoni"
+      ],
+      "pic": [
+        "//upload.wikimedia.org/wikipedia/commons/thumb/1/18/Okapi2.jpg/150px-Okapi2.jpg"
+      ],
+      "country": "Democratic Republic of the Congo"
+    }
+  },
+  {
+    "_values": {
+      "animal": [
+        "Andean condor"
+      ],
+      "sci_name": [
+        "Vultur gryphus"
+      ],
+      "pic": [
+        "//upload.wikimedia.org/wikipedia/commons/thumb/0/0d/Condor_flying_over_the_Colca_canyon_in_Peru.jpg/150px-Condor_flying_over_the_Colca_canyon_in_Peru.jpg"
+      ],
+      "country": "Colombia"
+    }
+  },
+  {
+    "_values": {
+      "animal": [
+        "Yig\u00fcirro",
+        "White-tailed deer",
+        "West Indian manatee"
+      ],
+      "sci_name": [
+        "Turdus grayi",
+        "Odocoileus virginianus",
+        "Trichechus manatus"
+      ],
+      "pic": [
+        "//upload.wikimedia.org/wikipedia/commons/thumb/0/0b/Turdus_grayi_-Garita%2C_Alajuela%2C_Costa_Rica-8.jpg/150px-Turdus_grayi_-Garita%2C_Alajuela%2C_Costa_Rica-8.jpg",
+        "//upload.wikimedia.org/wikipedia/commons/thumb/b/b7/White-tailed_deer.jpg/150px-White-tailed_deer.jpg",
+        "//upload.wikimedia.org/wikipedia/commons/thumb/9/99/Manatee_with_calf.PD_-_colour_corrected.jpg/150px-Manatee_with_calf.PD_-_colour_corrected.jpg"
+      ],
+      "country": "Costa Rica"
+    }
+  },
+  {
+    "_values": {
+      "animal": [
+        "Pine marten"
+      ],
+      "sci_name": [
+        "Martes martes"
+      ],
+      "pic": [
+        "//upload.wikimedia.org/wikipedia/commons/thumb/9/98/Martes_martes%2C_Clunes%2C_Scotland_4.jpg/150px-Martes_martes%2C_Clunes%2C_Scotland_4.jpg"
+      ],
+      "country": "Croatia"
+    }
+  },
+  {
+    "_values": {
+      "animal": [
+        "Cuban trogon"
+      ],
+      "sci_name": [
+        "Priotelus temnurus"
+      ],
+      "pic": [
+        "//upload.wikimedia.org/wikipedia/commons/thumb/a/ae/Priotelus_temnurus_-Camaguey%2C_Camaguey_Province%2C_Cuba-8.jpg/150px-Priotelus_temnurus_-Camaguey%2C_Camaguey_Province%2C_Cuba-8.jpg"
+      ],
+      "country": "Cuba"
+    }
+  },
+  {
+    "_values": {
+      "animal": [
+        "Mouflon"
+      ],
+      "sci_name": [
+        "Ovis orientalis"
+      ],
+      "pic": [
+        "//upload.wikimedia.org/wikipedia/commons/thumb/c/c1/Mouflon_in_zoo.jpg/150px-Mouflon_in_zoo.jpg"
+      ],
+      "country": "Cyprus"
+    }
+  },
+  {
+    "_values": {
+      "animal": [
+        "Coat of arms of the Czech Republic"
+      ],
+      "sci_name": [
+        "Mythical"
+      ],
+      "pic": [
+        "//upload.wikimedia.org/wikipedia/commons/thumb/2/20/Small_coat_of_arms_of_the_Czech_Republic.svg/150px-Small_coat_of_arms_of_the_Czech_Republic.svg.png"
+      ],
+      "country": "Czech Republic"
+    }
+  },
+  {
+    "_values": {
+      "animal": [
+        "Mute swan",
+        "Small tortoiseshell"
+      ],
+      "sci_name": [
+        "Cygnus olor",
+        "Aglais urticae"
+      ],
+      "pic": [
+        "//upload.wikimedia.org/wikipedia/commons/thumb/1/12/Cygnus_olor_2_%28Marek_Szczepanek%29.jpg/150px-Cygnus_olor_2_%28Marek_Szczepanek%29.jpg",
+        "//upload.wikimedia.org/wikipedia/commons/thumb/2/21/Aglais_urticae_LC0310.jpg/150px-Aglais_urticae_LC0310.jpg"
+      ],
+      "country": "Denmark"
+    }
+  },
+  {
+    "_values": {
+      "animal": [
+        "Steppe eagle"
+      ],
+      "sci_name": [
+        "Aquila nipalensis"
+      ],
+      "pic": [
+        "//upload.wikimedia.org/wikipedia/commons/thumb/5/56/Steppe_Eagle%27s_Gape.jpg/150px-Steppe_Eagle%27s_Gape.jpg"
+      ],
+      "country": "Egypt"
+    }
+  },
+  {
+    "_values": {
+      "animal": [
+        "Barn swallow"
+      ],
+      "sci_name": [
+        "Hirundo rustica"
+      ],
+      "pic": [
+        "//upload.wikimedia.org/wikipedia/commons/thumb/2/24/Landsvale.jpg/150px-Landsvale.jpg"
+      ],
+      "country": "Estonia"
+    }
+  },
+  {
+    "_values": {
+      "animal": [
+        "Lion"
+      ],
+      "sci_name": [
+        "Panthera leo"
+      ],
+      "pic": [
+        "//upload.wikimedia.org/wikipedia/commons/thumb/7/73/Lion_waiting_in_Namibia.jpg/150px-Lion_waiting_in_Namibia.jpg"
+      ],
+      "country": "Ethiopia"
+    }
+  },
+  {
+    "_values": {
+      "animal": [
+        "Brown bear",
+        "Whooper swan"
+      ],
+      "sci_name": [
+        "Ursus arctos",
+        "Cygnus cygnus"
+      ],
+      "pic": [
+        "//upload.wikimedia.org/wikipedia/commons/thumb/7/7f/European_Brown_Bear.jpg/150px-European_Brown_Bear.jpg",
+        "//upload.wikimedia.org/wikipedia/commons/thumb/a/a5/Whooper_Swan_%28Cygnus_cygnus%29_%2826%29.jpg/150px-Whooper_Swan_%28Cygnus_cygnus%29_%2826%29.jpg"
+      ],
+      "country": "Finland"
+    }
+  },
+  {
+    "_values": {
+      "animal": [
+        "Eurasian oystercatcher"
+      ],
+      "sci_name": [
+        "Haematopus ostralgus"
+      ],
+      "pic": [
+        "//upload.wikimedia.org/wikipedia/commons/thumb/a/a7/Haematopus_ostralegus_Norway.jpg/150px-Haematopus_ostralegus_Norway.jpg"
+      ],
+      "country": "Faroe Islands"
+    }
+  },
+  {
+    "_values": {
+      "animal": [
+        "Gallic rooster"
+      ],
+      "sci_name": [
+        "Gallus gallus domesticus"
+      ],
+      "pic": [
+        "//upload.wikimedia.org/wikipedia/commons/thumb/3/35/Coq-gaulois-dore.JPG/150px-Coq-gaulois-dore.JPG"
+      ],
+      "country": "France"
+    }
+  },
+  {
+    "_values": {
+      "animal": [
+        "Eagle"
+      ],
+      "sci_name": [
+        "Mythical"
+      ],
+      "pic": [
+        "//upload.wikimedia.org/wikipedia/commons/thumb/8/84/Aquila_chrysaetos_Flickr.jpg/150px-Aquila_chrysaetos_Flickr.jpg"
+      ],
+      "country": "Germany"
+    }
+  },
+  {
+    "_values": {
+      "animal": [
+        "Phoenix (mythology)",
+        "Dolphin"
+      ],
+      "sci_name": [
+        "Mythical",
+        "Mythical"
+      ],
+      "pic": [
+        "//upload.wikimedia.org/wikipedia/commons/thumb/e/eb/Greek_Phoenix.svg/150px-Greek_Phoenix.svg.png",
+        "//upload.wikimedia.org/wikipedia/commons/thumb/7/74/Delfine_im_Golf_von_Korinth%2C_Griechenland.jpg/150px-Delfine_im_Golf_von_Korinth%2C_Griechenland.jpg"
+      ],
+      "country": "Greece"
+    }
+  },
+  {
+    "_values": {
+      "animal": [
+        "Quetzal"
+      ],
+      "sci_name": [
+        "Pharomachrus mocinno"
+      ],
+      "pic": [
+        "//upload.wikimedia.org/wikipedia/commons/thumb/7/70/Quetzal01.jpg/150px-Quetzal01.jpg"
+      ],
+      "country": "Guatemala"
+    }
+  },
+  {
+    "_values": {
+      "animal": [
+        "Hispaniolan trogon"
+      ],
+      "sci_name": [
+        "Priotelus roseigaster"
+      ],
+      "pic": [
+        "//upload.wikimedia.org/wikipedia/commons/thumb/8/8d/Hispaniolan_Trogon_%28Priotelus_roseigaster%29_%288082799519%29.jpg/150px-Hispaniolan_Trogon_%28Priotelus_roseigaster%29_%288082799519%29.jpg"
+      ],
+      "country": "Haiti"
+    }
+  },
+  {
+    "_values": {
+      "animal": [
+        "White-tailed deer"
+      ],
+      "sci_name": [
+        "Odocoileus virginianus"
+      ],
+      "pic": [
+        "//upload.wikimedia.org/wikipedia/commons/thumb/b/b7/White-tailed_deer.jpg/150px-White-tailed_deer.jpg"
+      ],
+      "country": "Honduras"
+    }
+  },
+  {
+    "_values": {
+      "animal": [
+        "Turul"
+      ],
+      "sci_name": [
+        "Mythical"
+      ],
+      "pic": [
+        "//upload.wikimedia.org/wikipedia/commons/thumb/a/ad/Turul-Tb-front.jpg/150px-Turul-Tb-front.jpg"
+      ],
+      "country": "Hungary"
+    }
+  },
+  {
+    "_values": {
+      "animal": [
+        "Gyrfalcon"
+      ],
+      "sci_name": [
+        "Falco rusticolus"
+      ],
+      "pic": [
+        "//upload.wikimedia.org/wikipedia/commons/thumb/c/c8/Falco_rusticolus_white_cropped.jpg/150px-Falco_rusticolus_white_cropped.jpg"
+      ],
+      "country": "Iceland"
+    }
+  },
+  {
+    "_values": {
+      "animal": [
+        "Bengal tiger",
+        "Green peafowl",
+        "King cobra",
+        "South Asian river dolphin",
+        "Indian elephant"
+      ],
+      "sci_name": [
+        "Panthera tigris tigris",
+        "Pavo muticus",
+        "Ophiophagus hannah",
+        "Platanista gangetica gangetica",
+        "Elephas maximus indicus"
+      ],
+      "pic": [
+        "//upload.wikimedia.org/wikipedia/commons/thumb/2/27/Bengal_Tiger_Karnataka.jpg/150px-Bengal_Tiger_Karnataka.jpg",
+        "//upload.wikimedia.org/wikipedia/commons/thumb/2/2b/Peacocks_777.jpg/150px-Peacocks_777.jpg",
+        "//upload.wikimedia.org/wikipedia/commons/thumb/3/33/Ophiophagus_hannah2.jpg/150px-Ophiophagus_hannah2.jpg",
+        "//upload.wikimedia.org/wikipedia/commons/thumb/b/b8/GangeticDolphin.jpg/150px-GangeticDolphin.jpg",
+        "//upload.wikimedia.org/wikipedia/commons/thumb/a/ac/IndianElephant.jpg/150px-IndianElephant.jpg"
+      ],
+      "country": "India"
+    }
+  },
+  {
+    "_values": {
+      "animal": [
+        "Komodo dragon",
+        "Garuda Pancasila"
+      ],
+      "sci_name": [
+        "Varanus komodoensis",
+        "Mythical"
+      ],
+      "pic": [
+        "//upload.wikimedia.org/wikipedia/commons/thumb/9/92/Komododragon2.jpg/150px-Komododragon2.jpg",
+        "//upload.wikimedia.org/wikipedia/commons/thumb/9/90/National_emblem_of_Indonesia_Garuda_Pancasila.svg/150px-National_emblem_of_Indonesia_Garuda_Pancasila.svg.png"
+      ],
+      "country": "Indonesia"
+    }
+  },
+  {
+    "_values": {
+      "animal": [
+        "Asiatic lion"
+      ],
+      "sci_name": [
+        "Panthera leo persica"
+      ],
+      "pic": [
+        "//upload.wikimedia.org/wikipedia/commons/thumb/e/e1/Asian_lion_3.jpg/150px-Asian_lion_3.jpg"
+      ],
+      "country": "Iran"
+    }
+  },
+  {
+    "_values": {
+      "animal": [
+        "Chukar partridge",
+        "Wild goat"
+      ],
+      "sci_name": [
+        "Alectoris chukar",
+        "Capra aegagrus"
+      ],
+      "pic": [
+        "//upload.wikimedia.org/wikipedia/commons/thumb/7/77/Alectoris-chukar-001.jpg/150px-Alectoris-chukar-001.jpg",
+        "//upload.wikimedia.org/wikipedia/commons/thumb/f/f6/Bezoarziege.jpg/150px-Bezoarziege.jpg"
+      ],
+      "country": "Iraq"
+    }
+  },
+  {
+    "_values": {
+      "animal": [
+        "Hoopoe"
+      ],
+      "sci_name": [
+        "Upupa epops"
+      ],
+      "pic": [
+        "//upload.wikimedia.org/wikipedia/commons/thumb/a/ae/Upupa_epops_%28Ramat_Gan%29002.jpg/150px-Upupa_epops_%28Ramat_Gan%29002.jpg"
+      ],
+      "country": "Israel"
+    }
+  },
+  {
+    "_values": {
+      "animal": [
+        "Red-billed streamertail"
+      ],
+      "sci_name": [
+        "Trochilus polytmus"
+      ],
+      "pic": [
+        "//upload.wikimedia.org/wikipedia/commons/thumb/4/43/Red-billed_Streamertail_2506104129.jpg/150px-Red-billed_Streamertail_2506104129.jpg"
+      ],
+      "country": "Jamaica"
+    }
+  },
+  {
+    "_values": {
+      "animal": [
+        "Green pheasant",
+        "Common carp"
+      ],
+      "sci_name": [
+        "Phasianus versicolor",
+        "Cyprinus carpio"
+      ],
+      "pic": [
+        "//upload.wikimedia.org/wikipedia/commons/thumb/6/60/Phasianus_versicolor_in_field.JPG/150px-Phasianus_versicolor_in_field.JPG",
+        "//upload.wikimedia.org/wikipedia/commons/thumb/8/86/KoiDSC00093.JPG/150px-KoiDSC00093.JPG"
+      ],
+      "country": "Japan"
+    }
+  },
+  {
+    "_values": {
+      "animal": [
+        "White wagtail",
+        "Adalia bipunctata"
+      ],
+      "sci_name": [
+        "Motacilla alba",
+        "Adalia bipunctata"
+      ],
+      "pic": [
+        "//upload.wikimedia.org/wikipedia/commons/thumb/5/55/White-Wagtail.jpg/150px-White-Wagtail.jpg",
+        "//upload.wikimedia.org/wikipedia/commons/thumb/d/dd/Coccinellidae_-_Adalia_bipunctata.JPG/150px-Coccinellidae_-_Adalia_bipunctata.JPG"
+      ],
+      "country": "Latvia"
+    }
+  },
+  {
+    "_values": {
+      "animal": [
+        "White stork"
+      ],
+      "sci_name": [
+        "Ciconia ciconia"
+      ],
+      "pic": [
+        "//upload.wikimedia.org/wikipedia/commons/thumb/c/ca/WhiteStorkGaulsh02.jpg/150px-WhiteStorkGaulsh02.jpg"
+      ],
+      "country": "Lithuania"
+    }
+  },
+  {
+    "_values": {
+      "animal": [
+        "Lion"
+      ],
+      "sci_name": [
+        "Panthera leo"
+      ],
+      "pic": [
+        "//upload.wikimedia.org/wikipedia/commons/thumb/0/0c/Macedonian_Lion_-_Goce_Delcev_Bridge.JPG/150px-Macedonian_Lion_-_Goce_Delcev_Bridge.JPG"
+      ],
+      "country": "Republic of Macedonia"
+    }
+  },
+  {
+    "_values": {
+      "animal": [
+        "Malayan tiger"
+      ],
+      "sci_name": [
+        "Panthera tigris jacksoni"
+      ],
+      "pic": [
+        "//upload.wikimedia.org/wikipedia/commons/thumb/c/c5/MalayanTiger.jpg/150px-MalayanTiger.jpg"
+      ],
+      "country": "Malaysia"
+    }
+  },
+  {
+    "_values": {
+      "animal": [
+        "Pharaoh Hound"
+      ],
+      "sci_name": [
+        "Canis lupus familiaris"
+      ],
+      "pic": [
+        "//upload.wikimedia.org/wikipedia/commons/thumb/e/e5/Kelb_tal_fenek_529.jpg/150px-Kelb_tal_fenek_529.jpg"
+      ],
+      "country": "Malta"
+    }
+  },
+  {
+    "_values": {
+      "animal": [
+        "Aurochs"
+      ],
+      "sci_name": [
+        "Bos primigenius"
+      ],
+      "pic": [
+        "//upload.wikimedia.org/wikipedia/commons/thumb/0/0d/Aurochs_reconstruction.jpg/150px-Aurochs_reconstruction.jpg"
+      ],
+      "country": "Moldova"
+    }
+  },
+  {
+    "_values": {
+      "animal": [
+        "Dodo"
+      ],
+      "sci_name": [
+        "Raphus cucullatus"
+      ],
+      "pic": [
+        "//upload.wikimedia.org/wikipedia/commons/thumb/8/8a/Dodo.JPG/150px-Dodo.JPG"
+      ],
+      "country": "Mauritius"
+    }
+  },
+  {
+    "_values": {
+      "animal": [
+        "Golden eagle",
+        "Xoloitzcuintli",
+        "Jaguar",
+        "Grasshopper",
+        "Vaquita"
+      ],
+      "sci_name": [
+        "Aquila Chrysaetos",
+        "Canis lupus familiaris",
+        "Panthera onca",
+        "Sphenarium purpurascens",
+        "Phocoena sinus"
+      ],
+      "pic": [
+        "//upload.wikimedia.org/wikipedia/commons/thumb/d/d6/Golden_Eagle_in_flight_-_5.jpg/150px-Golden_Eagle_in_flight_-_5.jpg",
+        "//upload.wikimedia.org/wikipedia/commons/thumb/2/2b/Xoloitzcuintli_-_GCH_Bayshore_Georgio_Armani_09_%2816397731930%29.jpg/150px-Xoloitzcuintli_-_GCH_Bayshore_Georgio_Armani_09_%2816397731930%29.jpg",
+        "//upload.wikimedia.org/wikipedia/commons/thumb/0/0a/Standing_jaguar.jpg/150px-Standing_jaguar.jpg",
+        "//upload.wikimedia.org/wikipedia/commons/thumb/b/b7/American_Bird_Grasshopper.jpg/150px-American_Bird_Grasshopper.jpg",
+        "//upload.wikimedia.org/wikipedia/commons/thumb/6/65/Vaquita4_Olson_NOAA.jpg/150px-Vaquita4_Olson_NOAA.jpg"
+      ],
+      "country": "Mexico"
+    }
+  },
+  {
+    "_values": {
+      "animal": [
+        "Cow",
+        "Himalayan monal"
+      ],
+      "sci_name": [
+        "Mythical",
+        "Lophophorus impejanus"
+      ],
+      "pic": [
+        "//upload.wikimedia.org/wikipedia/commons/thumb/6/62/Brahman_Baby.jpg/150px-Brahman_Baby.jpg",
+        "//upload.wikimedia.org/wikipedia/commons/thumb/4/48/Lophophorus_impejanus_Zoo_DU_2.jpg/150px-Lophophorus_impejanus_Zoo_DU_2.jpg"
+      ],
+      "country": "Nepal"
+    }
+  },
+  {
+    "_values": {
+      "animal": [
+        "Lion (heraldry)",
+        "Black-tailed godwit"
+      ],
+      "sci_name": [
+        "Panthera leo",
+        "Limosa limosa"
+      ],
+      "pic": [
+        "//upload.wikimedia.org/wikipedia/commons/thumb/e/ea/Royal_coat_of_arms_of_the_Netherlands.svg/150px-Royal_coat_of_arms_of_the_Netherlands.svg.png",
+        "//upload.wikimedia.org/wikipedia/commons/thumb/4/47/Limosa_limosa_%28Uitkerke%29.jpg/150px-Limosa_limosa_%28Uitkerke%29.jpg"
+      ],
+      "country": "Netherlands"
+    }
+  },
+  {
+    "_values": {
+      "animal": [
+        "Kiwi"
+      ],
+      "sci_name": [
+        "Apteryx"
+      ],
+      "pic": [
+        "//upload.wikimedia.org/wikipedia/commons/thumb/8/82/TeTuatahianui.jpg/150px-TeTuatahianui.jpg"
+      ],
+      "country": "New Zealand"
+    }
+  },
+  {
+    "_values": {
+      "animal": [
+        "Chollima"
+      ],
+      "sci_name": [
+        "Mythical"
+      ],
+      "pic": [
+        "//upload.wikimedia.org/wikipedia/commons/thumb/7/72/Korea-Silla-Cheonmado-01.jpg/150px-Korea-Silla-Cheonmado-01.jpg"
+      ],
+      "country": "North Korea"
+    }
+  },
+  {
+    "_values": {
+      "animal": [
+        "Lion",
+        "White-throated dipper",
+        "Fjord horse"
+      ],
+      "sci_name": [
+        "Panthera leo",
+        "Cinclus cinclus",
+        "Equus ferus caballus"
+      ],
+      "pic": [
+        "//upload.wikimedia.org/wikipedia/commons/thumb/9/95/Coat_of_arms_of_Norway.svg/150px-Coat_of_arms_of_Norway.svg.png",
+        "//upload.wikimedia.org/wikipedia/commons/thumb/4/43/Cinclus_cinclus_R%28ThKraft%29.jpg/150px-Cinclus_cinclus_R%28ThKraft%29.jpg",
+        "//upload.wikimedia.org/wikipedia/commons/thumb/4/40/Fjording%2C_mother_and_daughter.jpg/150px-Fjording%2C_mother_and_daughter.jpg"
+      ],
+      "country": "Norway"
+    }
+  },
+  {
+    "_values": {
+      "animal": [
+        "Arabian oryx"
+      ],
+      "sci_name": [
+        "Oryx leucoryx"
+      ],
+      "pic": [
+        "//upload.wikimedia.org/wikipedia/commons/thumb/4/43/Arabian_oryx_%28oryx_leucoryx%29.jpg/150px-Arabian_oryx_%28oryx_leucoryx%29.jpg"
+      ],
+      "country": "Oman"
+    }
+  },
+  {
+    "_values": {
+      "animal": [
+        "Markhor",
+        "Indus river dolphin",
+        "Chukar partridge",
+        "Mugger crocodile",
+        "Shaheen falcon",
+        "Snow leopard"
+      ],
+      "sci_name": [
+        "Capra falconeri",
+        "Platanista indicus minor minor",
+        "Alectoris chukar",
+        "Crocodylus palustris",
+        "Falco peregrinus peregrinator",
+        "Panthera uncia"
+      ],
+      "pic": [
+        "//upload.wikimedia.org/wikipedia/commons/thumb/3/38/Markhor_Schraubenziege_Capra_falconeri_Zoo_Augsburg-02.jpg/150px-Markhor_Schraubenziege_Capra_falconeri_Zoo_Augsburg-02.jpg",
+        "//upload.wikimedia.org/wikipedia/commons/thumb/3/3d/Platanista_gangetica.jpg/150px-Platanista_gangetica.jpg",
+        "//upload.wikimedia.org/wikipedia/commons/thumb/7/77/Alectoris-chukar-001.jpg/150px-Alectoris-chukar-001.jpg",
+        "//upload.wikimedia.org/wikipedia/commons/thumb/a/a3/Persiancrocodile.jpg/150px-Persiancrocodile.jpg",
+        "//upload.wikimedia.org/wikipedia/commons/thumb/9/9f/%D8%AC%D9%8A%D8%B1_%D8%B4%D8%A7%D9%87%D9%8A%D9%86.jpg/150px-%D8%AC%D9%8A%D8%B1_%D8%B4%D8%A7%D9%87%D9%8A%D9%86.jpg",
+        "//upload.wikimedia.org/wikipedia/commons/thumb/f/f6/Snow_Leopard_1_%284693059450%29.jpg/150px-Snow_Leopard_1_%284693059450%29.jpg"
+      ],
+      "country": "Pakistan"
+    }
+  },
+  {
+    "_values": {
+      "animal": [
+        "Harpy eagle"
+      ],
+      "sci_name": [
+        "Harpia harpyja"
+      ],
+      "pic": [
+        "//upload.wikimedia.org/wikipedia/commons/thumb/3/3b/Harpia_harpyja_001_800.jpg/150px-Harpia_harpyja_001_800.jpg"
+      ],
+      "country": "Panama"
+    }
+  },
+  {
+    "_values": {
+      "animal": [
+        "Dugong"
+      ],
+      "sci_name": [
+        "Dugong dugon"
+      ],
+      "pic": [
+        "//upload.wikimedia.org/wikipedia/commons/thumb/9/91/Dugong_Marsa_Alam.jpg/150px-Dugong_Marsa_Alam.jpg"
+      ],
+      "country": "Papua New Guinea"
+    }
+  },
+  {
+    "_values": {
+      "animal": [
+        "Vicu\u00f1a"
+      ],
+      "sci_name": [
+        "Vicugna vicugna"
+      ],
+      "pic": [
+        "//upload.wikimedia.org/wikipedia/commons/thumb/e/eb/Vicunacrop.jpg/150px-Vicunacrop.jpg"
+      ],
+      "country": "Peru"
+    }
+  },
+  {
+    "_values": {
+      "animal": [
+        "Carabao",
+        "Philippine eagle"
+      ],
+      "sci_name": [
+        "Bubalus bubalis",
+        "Pithecophaga jefferyi"
+      ],
+      "pic": [
+        "//upload.wikimedia.org/wikipedia/commons/thumb/c/cd/Carabao.jpg/150px-Carabao.jpg",
+        "//upload.wikimedia.org/wikipedia/commons/thumb/2/29/Sir_Arny%28Philippine_Eagle%29.jpg/150px-Sir_Arny%28Philippine_Eagle%29.jpg"
+      ],
+      "country": "Philippines"
+    }
+  },
+  {
+    "_values": {
+      "animal": [
+        "White-tailed eagle",
+        "White stork",
+        "European bison"
+      ],
+      "sci_name": [
+        "Haliaeetus albicilla",
+        "Ciconia ciconia",
+        "Bison bonasus"
+      ],
+      "pic": [
+        "//upload.wikimedia.org/wikipedia/commons/thumb/5/52/White-tailed_Eagle_Head_detail.jpg/150px-White-tailed_Eagle_Head_detail.jpg",
+        "//upload.wikimedia.org/wikipedia/commons/thumb/f/fb/Ciconia_ciconia_-_01.jpg/150px-Ciconia_ciconia_-_01.jpg",
+        "//upload.wikimedia.org/wikipedia/commons/thumb/0/03/HanBison_femmelle_et_petit.JPG/150px-HanBison_femmelle_et_petit.JPG"
+      ],
+      "country": "Poland"
+    }
+  },
+  {
+    "_values": {
+      "animal": [
+        "Arabian oryx"
+      ],
+      "sci_name": [
+        "Oryx leucoryx"
+      ],
+      "pic": [
+        "//upload.wikimedia.org/wikipedia/commons/thumb/4/43/Arabian_oryx_%28oryx_leucoryx%29.jpg/150px-Arabian_oryx_%28oryx_leucoryx%29.jpg"
+      ],
+      "country": "Qatar"
+    }
+  },
+  {
+    "_values": {
+      "animal": [
+        "Lynx"
+      ],
+      "sci_name": [
+        "Lynx lynx"
+      ],
+      "pic": [
+        "//upload.wikimedia.org/wikipedia/commons/thumb/6/68/Lynx_lynx_poing.jpg/150px-Lynx_lynx_poing.jpg"
+      ],
+      "country": "Romania"
+    }
+  },
+  {
+    "_values": {
+      "animal": [
+        "Eurasian brown bear"
+      ],
+      "sci_name": [
+        "Ursus arctos arctos"
+      ],
+      "pic": [
+        "//upload.wikimedia.org/wikipedia/commons/thumb/7/7f/European_Brown_Bear.jpg/150px-European_Brown_Bear.jpg"
+      ],
+      "country": "Russia"
+    }
+  },
+  {
+    "_values": {
+      "animal": [
+        "Leopard"
+      ],
+      "sci_name": [
+        "Panthera pardus"
+      ],
+      "pic": [
+        "//upload.wikimedia.org/wikipedia/commons/thumb/c/c5/Leopard_africa.jpg/150px-Leopard_africa.jpg"
+      ],
+      "country": "Rwanda"
+    }
+  },
+  {
+    "_values": {
+      "animal": [
+        "Saint Vincent amazon"
+      ],
+      "sci_name": [
+        "Amazona guildingii"
+      ],
+      "pic": [
+        "//upload.wikimedia.org/wikipedia/commons/thumb/f/f6/Amazona_guildingii_-Botanical_Gardens_-Kingstown_-Saint_Vincent-8a-4c.jpg/150px-Amazona_guildingii_-Botanical_Gardens_-Kingstown_-Saint_Vincent-8a-4c.jpg"
+      ],
+      "country": "Saint Vincent and the Grenadines"
+    }
+  },
+  {
+    "_values": {
+      "animal": [
+        "Wolf",
+        "Serbian eagle",
+        "Lynx"
+      ],
+      "sci_name": [
+        "Canis lupus lupus",
+        "Mythical",
+        "Lynx lynx"
+      ],
+      "pic": [
+        "//upload.wikimedia.org/wikipedia/commons/thumb/7/74/Canis_lupus_lupus_qtl1.jpg/150px-Canis_lupus_lupus_qtl1.jpg",
+        "//upload.wikimedia.org/wikipedia/commons/thumb/0/0f/Coat_of_arms_of_Serbia_small.svg/150px-Coat_of_arms_of_Serbia_small.svg.png",
+        "//upload.wikimedia.org/wikipedia/commons/thumb/b/b4/Lynx2.jpg/150px-Lynx2.jpg"
+      ],
+      "country": "Serbia"
+    }
+  },
+  {
+    "_values": {
+      "animal": [
+        "Leopard"
+      ],
+      "sci_name": [
+        "Panthera pardus"
+      ],
+      "pic": [
+        "//upload.wikimedia.org/wikipedia/commons/thumb/c/c5/Leopard_africa.jpg/150px-Leopard_africa.jpg"
+      ],
+      "country": "Somalia"
+    }
+  },
+  {
+    "_values": {
+      "animal": [
+        "Springbok",
+        "Blue crane",
+        "Galjoen"
+      ],
+      "sci_name": [
+        "Antidorcas marsupialis",
+        "Anthropoides paradiseus",
+        "Dichistius capensis"
+      ],
+      "pic": [
+        "//upload.wikimedia.org/wikipedia/commons/thumb/7/7c/Springbok.JPG/150px-Springbok.JPG",
+        "//upload.wikimedia.org/wikipedia/commons/thumb/b/b0/Anthropoides_paradiseus_-Etosha_National_Park%2C_Namibia-8.jpg/150px-Anthropoides_paradiseus_-Etosha_National_Park%2C_Namibia-8.jpg",
+        "//upload.wikimedia.org/wikipedia/commons/thumb/1/15/Dichistius_capensis.JPG/150px-Dichistius_capensis.JPG"
+      ],
+      "country": "South Africa"
+    }
+  },
+  {
+    "_values": {
+      "animal": [
+        "Siberian tiger",
+        "Korean magpie"
+      ],
+      "sci_name": [
+        "Panthera tigris altaica",
+        "Mythical"
+      ],
+      "pic": [
+        "//upload.wikimedia.org/wikipedia/commons/thumb/c/c6/Siberian_Tiger_sf.jpg/150px-Siberian_Tiger_sf.jpg",
+        "//upload.wikimedia.org/wikipedia/commons/thumb/c/ca/Korean_magpie_in_Daejeon_%28side_profile%29.jpg/150px-Korean_magpie_in_Daejeon_%28side_profile%29.jpg"
+      ],
+      "country": "South Korea"
+    }
+  },
+  {
+    "_values": {
+      "animal": [
+        "Sri Lankan junglefowl"
+      ],
+      "sci_name": [
+        "Gallus lafayettii"
+      ],
+      "pic": [
+        "//upload.wikimedia.org/wikipedia/commons/thumb/2/2c/Thimindu_2009_09_04_Yala_Sri_Lanka_Junglefowl_1.JPG/150px-Thimindu_2009_09_04_Yala_Sri_Lanka_Junglefowl_1.JPG"
+      ],
+      "country": "Sri Lanka"
+    }
+  },
+  {
+    "_values": {
+      "animal": [
+        "Giraffe"
+      ],
+      "sci_name": [
+        "Giraffa camelopardalis"
+      ],
+      "pic": [
+        "//upload.wikimedia.org/wikipedia/commons/thumb/9/9e/Giraffe_Mikumi_National_Park.jpg/150px-Giraffe_Mikumi_National_Park.jpg"
+      ],
+      "country": "Tanzania"
+    }
+  },
+  {
+    "_values": {
+      "animal": [
+        "Asian elephant"
+      ],
+      "sci_name": [
+        "Elephas maximus"
+      ],
+      "pic": [
+        "//upload.wikimedia.org/wikipedia/commons/thumb/9/98/Elephas_maximus_%28Bandipur%29.jpg/150px-Elephas_maximus_%28Bandipur%29.jpg"
+      ],
+      "country": "Thailand"
+    }
+  },
+  {
+    "_values": {
+      "animal": [
+        "Grey wolf"
+      ],
+      "sci_name": [
+        "Canis lupus"
+      ],
+      "pic": [
+        "//upload.wikimedia.org/wikipedia/commons/thumb/b/bb/Wolf_on_alert.jpg/150px-Wolf_on_alert.jpg"
+      ],
+      "country": "Turkey"
+    }
+  },
+  {
+    "_values": {
+      "animal": [
+        "Arabian oryx",
+        "Peregrine falcon"
+      ],
+      "sci_name": [
+        "Oryx leucoryx",
+        "Falco peregrinus"
+      ],
+      "pic": [
+        "//upload.wikimedia.org/wikipedia/commons/thumb/4/43/Arabian_oryx_%28oryx_leucoryx%29.jpg/150px-Arabian_oryx_%28oryx_leucoryx%29.jpg",
+        "//upload.wikimedia.org/wikipedia/commons/thumb/9/9f/Falco_peregrinus_-Nova_Scotia%2C_Canada_-eating-8.jpg/150px-Falco_peregrinus_-Nova_Scotia%2C_Canada_-eating-8.jpg"
+      ],
+      "country": "United Arab Emirates"
+    }
+  },
+  {
+    "_values": {
+      "animal": [
+        "Lion",
+        "Bulldog",
+        "Red kite",
+        "Unicorn",
+        "Y Ddraig Goch"
+      ],
+      "sci_name": [
+        "Panthera leo",
+        "Canis lupus familiaris",
+        "Milvus milvus",
+        "Mythical",
+        "Mythical"
+      ],
+      "pic": [
+        "//upload.wikimedia.org/wikipedia/commons/thumb/6/66/Lion2010.jpg/150px-Lion2010.jpg",
+        "//upload.wikimedia.org/wikipedia/commons/thumb/6/69/Ozbulldog.jpg/150px-Ozbulldog.jpg",
+        "//upload.wikimedia.org/wikipedia/commons/thumb/4/4b/Milvus_milvus_R%28ThKraft%29.jpg/150px-Milvus_milvus_R%28ThKraft%29.jpg",
+        "//upload.wikimedia.org/wikipedia/commons/thumb/7/70/Oftheunicorn.jpg/150px-Oftheunicorn.jpg",
+        "//upload.wikimedia.org/wikipedia/commons/thumb/5/59/Flag_of_Wales_2.svg/150px-Flag_of_Wales_2.svg.png"
+      ],
+      "country": "United Kingdom"
+    }
+  },
+  {
+    "_values": {
+      "animal": [
+        "Bald eagle",
+        "American bison"
+      ],
+      "sci_name": [
+        "Haliaeetus leucocephalus",
+        "Bison bison"
+      ],
+      "pic": [
+        "//upload.wikimedia.org/wikipedia/commons/thumb/e/e3/Haliaeetus_leucocephalus.jpeg/150px-Haliaeetus_leucocephalus.jpeg",
+        "//upload.wikimedia.org/wikipedia/commons/thumb/8/8d/American_bison_k5680-1.jpg/150px-American_bison_k5680-1.jpg"
+      ],
+      "country": "United States of America"
+    }
+  }
+]
