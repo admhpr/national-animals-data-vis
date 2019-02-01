@@ -14,8 +14,7 @@ However that was not the purpose of the project.
 
 ## Documentation
 
-- [Overview of Technologies used]()
-- [Module API Documentation]()
+- [Module API Documentation](https://github.com/harps116/national-animals-data-vis)
 
 ### Data visualisation
 
