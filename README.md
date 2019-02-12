@@ -28,5 +28,4 @@ However that was not the purpose of the project.
 
 Largely inspired by the [work](https://www.kyrandale.com/categories/dataviz/) of Kyran Dale and his [book](https://www.amazon.com/Data-Visualization-Python-JavaScript-Transform/dp/1491920513) on Data Viz with Python and Javascript.
 
-This Project is Licensed under
-licensed [MIT](https://choosealicense.com/licenses/mit/)
+This project is Licensed under the [MIT](https://choosealicense.com/licenses/mit/) license
