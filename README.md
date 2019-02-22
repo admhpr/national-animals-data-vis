@@ -22,7 +22,7 @@ However that was not the purpose of the project.
 
 - [Raw Data](https://raw.githubusercontent.com/harps116/national-animals/master/web_scraper/national_animals_map.topojson)
 
-- [Interactive Globe](https://projects.codinglab.tech/national-animals-data-vis/)
+- [Interactive Globe](https://projects.codinglab.online/national-animals-data-vis/)
 
 ### Acknowledgements
 
