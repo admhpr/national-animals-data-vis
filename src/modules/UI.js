@@ -29,7 +29,9 @@ export default class UI {
         }
       });
     } else {
-      var msg = { message: "No Data at this time" };
+      var msg = {
+        message: "No data at this time, make another selection."
+      };
       let card = this.renderCard(msg);
       info.appendChild(card);
     }
