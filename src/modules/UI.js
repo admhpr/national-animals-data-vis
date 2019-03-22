@@ -5,6 +5,14 @@
  */
 export default class UI {
   /**
+   * @memberOf UI
+   * @param {string} selector
+   * @returns {NodeList}
+   */
+  static _(selector) {
+    return document.querySelectorAll(selector);
+  }
+  /**
    * @instance
    * @desc Loops through the props and creates a div for each property.
    * checking for an array on the first attribute will be the number of divs required
@@ -89,18 +97,5 @@ export default class UI {
       }
     });
     return card;
-  }
-  /**
-   * @desc Takes a string selector and returns a nodelist of that selection
-   * The returned NodeList will contain all the elements in the document that
-   * are matched by any of the specified selectors. If the selectors string
-   * contains a CSS pseudo-element, the returned elementList will be empty.
-   * @see https://developer.mozilla.org/en-US/docs/Web/API/Document/querySelectorAll
-   * @memberOf UI
-   * @param {string} selector
-   * @returns {NodeList}
-   */
-  static _(selector) {
-    return document.querySelectorAll(selector);
   }
 }
