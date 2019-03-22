@@ -6,7 +6,7 @@ The Main Objective of this project was to take unstructured data in the form of 
 
 It involved scraping, parsing, storing, sending and displaying data in [JSON](https://www.json.org/) format.
 
-There are ofcousre more efficient and better ways to obtain data from [Wikipedia](https://en.wikipedia.org/w/api.php?action=parse&page=Flag_of_Ireland&format=json).
+There are ofcourse more efficient and better ways to obtain data from [Wikipedia](https://en.wikipedia.org/w/api.php?action=parse&page=Flag_of_Ireland&format=json).
 
 However that was not the purpose of the project.
 
