@@ -3235,10 +3235,10 @@ jsbn@~0.1.0:
   resolved "https://registry.yarnpkg.com/jsbn/-/jsbn-0.1.1.tgz#a5e654c2e5a2deb5f201d96cefbca80c0ef2f513"
   integrity sha1-peZUwuWi3rXyAdls77yoDA7y9RM=
 
-jsdoc-webpack-plugin@^0.0.2:
-  version "0.0.2"
-  resolved "https://registry.yarnpkg.com/jsdoc-webpack-plugin/-/jsdoc-webpack-plugin-0.0.2.tgz#9f5186bd2d3c2450d450a1982e93fd55333689a0"
-  integrity sha1-n1GGvS08JFDUUKGYLpP9VTM2iaA=
+jsdoc-webpack-plugin@^0.1.0:
+  version "0.1.0"
+  resolved "https://registry.yarnpkg.com/jsdoc-webpack-plugin/-/jsdoc-webpack-plugin-0.1.0.tgz#2e045c5009b74654dbd471c389619c861f37896f"
+  integrity sha512-dikWtIaglBVtC4cq9CwckUi2PIKwYUtf6lYaY9Wh9lugxOCEiYwAZTGa2e7oLPA86kNm+NzaaSr36TYfeBKjMg==
   dependencies:
     fs-extra "^0.30.0"
     jsdoc "^3.4.0"
