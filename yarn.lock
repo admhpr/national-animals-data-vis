@@ -1424,14 +1424,15 @@ d3-format@1.2.2:
   resolved "https://registry.yarnpkg.com/d3-format/-/d3-format-1.2.2.tgz#1a39c479c8a57fe5051b2e67a3bee27061a74e7a"
   integrity sha512-zH9CfF/3C8zUI47nsiKfD0+AGDEuM8LwBIP7pBVpyR4l/sKkZqITmMtxRp04rwBrlshIZ17XeFAaovN3++wzkw==
 
-d3-geo-projection@^2.3.1:
-  version "2.5.1"
-  resolved "https://registry.yarnpkg.com/d3-geo-projection/-/d3-geo-projection-2.5.1.tgz#fff90382d0718d8ad2d70896a57768e856380424"
-  integrity sha512-kZgeWzg8efu9iIpbdEy3hJe5oA1u43W+rqOW6QuMKwLHu7waZc9FxZFzLpa8nMFhJM712tCggQot4SWJzb5E2w==
+d3-geo-projection@^2.7.1:
+  version "2.7.1"
+  resolved "https://registry.yarnpkg.com/d3-geo-projection/-/d3-geo-projection-2.7.1.tgz#bcac6a9ac9d77786c97dab3f3f556913fd6db202"
+  integrity sha512-qT9Msnb6c1AUgIbOML7DrCj5anaoy/WVrCCoN5iFTa5YX/VH53Xpv2W5DHMQsemabi66BmJ94wCamHGssnIQWA==
   dependencies:
     commander "2"
     d3-array "1"
     d3-geo "^1.10.0"
+    resolve "^1.1.10"
 
 d3-geo@1.9.1:
   version "1.9.1"
@@ -4261,6 +4262,11 @@ path-key@^2.0.0:
   resolved "https://registry.yarnpkg.com/path-key/-/path-key-2.0.1.tgz#411cadb574c5a140d3a4b1910d40d80cc9f40b40"
   integrity sha1-QRyttXTFoUDTpLGRDUDYDMn0C0A=
 
+path-parse@^1.0.6:
+  version "1.0.6"
+  resolved "https://registry.yarnpkg.com/path-parse/-/path-parse-1.0.6.tgz#d62dbb5679405d72c4737ec58600e9ddcf06d24c"
+  integrity sha512-GSmOT2EbHrINBf9SR7CDELwlJ8AENk3Qn7OikK4nFYAu3Ote2+JYNVvkpAEQm3/TLNEJFD/xZJjzyxg3KBWOzw==
+
 path-to-regexp@0.1.7:
   version "0.1.7"
   resolved "https://registry.yarnpkg.com/path-to-regexp/-/path-to-regexp-0.1.7.tgz#df604178005f522f15eb4490e7247a1bfaa67f8c"
@@ -5016,6 +5022,13 @@ resolve-url@^0.2.1:
   version "0.2.1"
   resolved "https://registry.yarnpkg.com/resolve-url/-/resolve-url-0.2.1.tgz#2c637fe77c893afd2a663fe21aa9080068e2052a"
   integrity sha1-LGN/53yJOv0qZj/iGqkIAGjiBSo=
+
+resolve@^1.1.10:
+  version "1.12.0"
+  resolved "https://registry.yarnpkg.com/resolve/-/resolve-1.12.0.tgz#3fc644a35c84a48554609ff26ec52b66fa577df6"
+  integrity sha512-B/dOmuoAik5bKcD6s6nXDCjzUKnaDvdkRyAk6rsmsKLipWj4797iothd7jmmUhWTfinVMU+wc56rYKsit2Qy4w==
+  dependencies:
+    path-parse "^1.0.6"
 
 ret@~0.1.10:
   version "0.1.15"
