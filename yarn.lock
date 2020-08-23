@@ -1302,6 +1302,11 @@ d3-array@1.2.1:
   resolved "https://registry.yarnpkg.com/d3-array/-/d3-array-1.2.1.tgz#d1ca33de2f6ac31efadb8e050a021d7e2396d5dc"
   integrity sha512-CyINJQ0SOUHojDdFDH4JEM0552vCR1utGyLHegJHyYH0JyCpSeTPxi4OBqHMA2jJZq4NH782LtaJWBImqI/HBw==
 
+d3-array@^2.5:
+  version "2.5.1"
+  resolved "https://registry.yarnpkg.com/d3-array/-/d3-array-2.5.1.tgz#cc785e1c4b560a34b8c77af9e6709bdf3f2ee117"
+  integrity sha512-cKvAlQZUKhXInw5mosJMtAYsY3dDYwTess/WOFUQTGcr8xV04SZMJs6n6QznsqZC5vJTkvZuCgsH9fo981ysPA==
+
 d3-axis@1.0.8:
   version "1.0.8"
   resolved "https://registry.yarnpkg.com/d3-axis/-/d3-axis-1.0.8.tgz#31a705a0b535e65759de14173a31933137f18efa"
@@ -1436,12 +1441,19 @@ d3-geo@1.9.1:
   dependencies:
     d3-array "1"
 
-d3-geo@^1.10.0, d3-geo@^1.11.6:
+d3-geo@^1.10.0:
   version "1.11.6"
   resolved "https://registry.yarnpkg.com/d3-geo/-/d3-geo-1.11.6.tgz#134f2ef035ff75a448075fafdea92702a2e0e0cf"
   integrity sha512-z0J8InXR9e9wcgNtmVnPTj0TU8nhYT6lD/ak9may2PdKqXIeHUr8UbFLoCtrPYNsjv6YaLvSDQVl578k6nm7GA==
   dependencies:
     d3-array "1"
+
+d3-geo@^2.0.0:
+  version "2.0.0"
+  resolved "https://registry.yarnpkg.com/d3-geo/-/d3-geo-2.0.0.tgz#aadb8a2804b690b868e5f153037217ba6fee9b20"
+  integrity sha512-28x4nHfMpTDOXlOXv2gb3WS6L4mtaWdz5ctC6ow+lGiFOpmc+8OtnDjAupCPBjQ+bMWUvP3F89akr94o//cXLQ==
+  dependencies:
+    d3-array "^2.5"
 
 d3-hierarchy@1.1.5:
   version "1.1.5"
